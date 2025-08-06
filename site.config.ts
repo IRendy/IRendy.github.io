@@ -6,7 +6,10 @@ export default defineSiteConfig({
   title: '记录生活和技术日常',
   author: {
     name: '冬逝枝',
+		avatar: 'https://avatars.githubusercontent.com/u/42890271?s=400&u=63bdbba2cff978483bd697a2152ed890d3587031&v=4'
   },
+	favicon: 'https://avatars.githubusercontent.com/u/42890271?s=400&u=63bdbba2cff978483bd697a2152ed890d3587031&v=4',
+
   description: '肥皂泡里什么都没有',
   social: [
     {

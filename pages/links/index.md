@@ -7,7 +7,7 @@ links:
     avatar: https://lizqwerscott.github.io/img/author_hu7569068100463337515.png
     name: lizqwer
     blog: lizqwer scott
-    desc: 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑
+    #desc: 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑
     color: "#66ccff"
 random: true
 ---

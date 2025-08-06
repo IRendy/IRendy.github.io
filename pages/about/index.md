@@ -6,7 +6,7 @@ title: 关于我
 
 ---
 
-本站点使用 [Valaxy](https://valaxy.js.org/) 搭建，主题使用 [valaxy-theme-yun](
+本站点使用 [Valaxy](https://github.com/YunYouJun/valaxy) 搭建，主题使用 `valaxy-theme-yun`
 
 如果你喜欢它，你可以在 [GitHub](https://github.com/sponsors/YunYouJun) 查看
 
