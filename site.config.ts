@@ -20,7 +20,7 @@ export default defineSiteConfig({
     },
     {
       name: 'QQ 3509725139',
-      link: '',
+      link: 'https://qm.qq.com/q/yNBhC0em7C',
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
@@ -30,7 +30,7 @@ export default defineSiteConfig({
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
-    {
+    /*{
       name: '微博',
       link: '',
       icon: 'i-ri-weibo-line',
@@ -41,16 +41,16 @@ export default defineSiteConfig({
       link: '',
       icon: 'i-ri-douban-line',
       color: '#007722',
-    },
+    },*/
     {
       name: '网易云音乐',
-      link: '',
+      link: 'https://music.163.com/#/user/home?id=541863523',
       icon: 'i-ri-netease-cloud-music-line',
       color: '#C20C0C',
     },
     {
       name: '知乎',
-      link: '',
+      link: 'https://www.zhihu.com/people/big-bang-79',
       icon: 'i-ri-zhihu-line',
       color: '#0084FF',
     },
@@ -60,7 +60,7 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    {
+   /* {
       name: '微信公众号',
       link: '',
       icon: 'i-ri-wechat-2-line',
@@ -77,7 +77,7 @@ export default defineSiteConfig({
       link: '',
       icon: 'i-ri-telegram-line',
       color: '#0088CC',
-    },
+    },*/
     {
       name: 'E-Mail',
       link: 'mailto:326821729@qq.com',
