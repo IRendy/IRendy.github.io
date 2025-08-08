@@ -6,9 +6,12 @@ export default defineSiteConfig({
   title: '记录生活和技术日常',
   author: {
     name: '冬逝枝',
-		avatar: 'https://avatars.githubusercontent.com/u/42890271?s=400&u=63bdbba2cff978483bd697a2152ed890d3587031&v=4'
+    avatar: 'https://avatars.githubusercontent.com/u/42890271?s=400&u=63bdbba2cff978483bd697a2152ed890d3587031&v=4',
+    status: {
+      emoji: '😎',
+    }
   },
-	favicon: 'https://avatars.githubusercontent.com/u/42890271?s=400&u=63bdbba2cff978483bd697a2152ed890d3587031&v=4',
+  favicon: 'https://avatars.githubusercontent.com/u/42890271?s=400&u=63bdbba2cff978483bd697a2152ed890d3587031&v=4',
 
   description: '肥皂泡里什么都没有',
   social: [
@@ -60,24 +63,24 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-   /* {
-      name: '微信公众号',
-      link: '',
-      icon: 'i-ri-wechat-2-line',
-      color: '#1AAD19',
-    },
-    {
-      name: 'Twitter',
-      link: '',
-      icon: 'i-ri-twitter-x-fill',
-      color: 'black',
-    },
-    {
-      name: 'Telegram Channel',
-      link: '',
-      icon: 'i-ri-telegram-line',
-      color: '#0088CC',
-    },*/
+    /* {
+       name: '微信公众号',
+       link: '',
+       icon: 'i-ri-wechat-2-line',
+       color: '#1AAD19',
+     },
+     {
+       name: 'Twitter',
+       link: '',
+       icon: 'i-ri-twitter-x-fill',
+       color: 'black',
+     },
+     {
+       name: 'Telegram Channel',
+       link: '',
+       icon: 'i-ri-telegram-line',
+       color: '#0088CC',
+     },*/
     {
       name: 'E-Mail',
       link: 'mailto:326821729@qq.com',
