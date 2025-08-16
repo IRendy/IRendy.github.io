@@ -24,3 +24,9 @@ $a^2+b^2=c^2$
 (2) (对称性) $d(x, y) = d(y ,x)$\\
 
 (3) (三角不等式) $d(a, b) + d(b, c) \ge d(a, c)$
+
+---
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114426837600573&bvid=BV18JGbzjEn4&cid=29718874563&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe src="//music.163.com/outchain/player?type=2&id=2699629221&auto=0&height=66" width="300" height="100" frameborder="no" marginwidth="0" marginheight="0"></iframe>

@@ -1,7 +1,7 @@
 ---
 title: 微积分习题
 date: 2025-08-07
-update: 2025-08-08
+update: 2025-08-09
 categories: 学习笔记
 tags:
   - 数学
@@ -30,7 +30,7 @@ tags:
 
 #### 求初等函数的表达式
 
-1. 已知$f(x+\frac{1}{x}=\frac{x^2}{x^4+1}$, 求$f(x)$.
+1. 已知$f(x+\frac{1}{x})=\frac{x^2}{x^4+1}$, 求$f(x)$.
 2. 设$f(\frac{x+1}{x-1})=3f(x)-2x$, 求$f(x)$.
 3. 设$f(x)=\frac{x}{\sqrt{1+x^2}}, f_1(x)=f[f(x)], f_2(x)=f[f_2(x)],\cdots ,f_{n+1}(x)=f[f_n(x)](n=1,2,\cdots).$则$f_n(x)=$\_\_\_\_\_\_.
 4. 设$a_0+a_1x+a_2x^2+\cdots+a_8x^8=(2x-1)^8$, 求$a_1+a_2+\cdots+a_7$.
@@ -39,7 +39,7 @@ tags:
 #### 求分段函数的表达式
 
 1. 设$f(x)$在$(-\infty,+\infty)$内有定义, 对任意$x$, 恒有$f(x+1)=2f(x)$, 且当$x\in[0,1]$时, $f(x)=x(1-x^2)$, 求$f(x)$在$[-1,0]$与$[1,2]$上的表达式.
-2. 设$f(x)=\begin{cases}1,\quad |x|\le 1\\2,\quad |x| >1\end{cases}$, 则$f{f[f(x)]}$等于\_\_\_\_\_\_.
+2. 设$f(x)=\begin{cases}1,\quad |x|\le 1\\2,\quad |x| >1\end{cases}$, 则$f\{f[f(x)]\}$等于\_\_\_\_\_\_.
 3. 设$g(x)=\begin{cases}2-x,\quad x\le 0\\x+2,\quad x>0\end{cases}, f(x)=\begin{cases}x^2,\quad x<0\\ -x,\quad x\ge 0\end{cases}$, 则$g[f(x)]=$\_\_\_\_\_\_.
 
 #### 判断函数的奇偶性
@@ -73,21 +73,118 @@ tags:
 
 #### 一元函数周期性的讨论
 
+1. 设$[x]$是表述不超过$x$的最大整数, 则$y=x-[x]$是\_\_\_\_\_\_.
+   - A. 无界函数
+   - B. 周期为1的周函数
+   - C. 单调函数
+   - D. 偶函数
+2. 设对任何$x\in(-\infty, +\infty)$, 存在常数$c\ne 0$, 使$f(x+c)=-f(x)$. 证明$f(x)$是周期函数.
+
 #### 求反函数
+
+1. 函数$f(x)=\frac{\sin x}{1+x^2}$的值域是\_\_\_\_\_\_.
 
 #### 讨论一元函数的值域
 
+1. 函数$y=\sin \frac{\pi x}{2(1+x^2)}$的值域是\_\_\_\_\_\_.
+2. 求$y=f(x)=\begin{cases}3-x^3,\quad x< -2\\5-x,\quad -2\le x\le 2\\1-(x-2)^2,\quad x>2\end{cases}$的值域, 并求他的反函数.
+
 ### 数列的极限
+
+#### 有关数列极限存在性的判断
+
+1. “对任意给定的$\epsilon\in(0,1)$, 总存在正整数$\mathbb{N}$,当$n\ge \mathbb{N}$时, 恒有$|x_n-a|\le 2\epsilon$”是数列$\{a_n\}$收敛于$a$的\_\_\_\_\_\_.
+   - A. 充分条件但非必要条件
+   - B. 必要条件但非充分条件
+   - C. 充分必要条件
+   - D. 既非充分条件又非必要条件
+2. 设$\{a_n\}, \{b_n\}, \{c_n\}$均为非负数列, 且$\lim_{n\rightarrow \infty}a_n=0, \lim_{n\rightarrow \infty}b_n=1, \lim_{n\rightarrow \infty}c_n=\infty$, 则必有\_\_\_\_\_\_.
+   - A. $a_n<b_n$对任意$n$成立
+   - B. $b_n<c_n$对任意$n$成立
+   - C. 极限$\lim_{n\rightarrow \infty}a_nc_n$不存在
+   - D. 极限$\lim_{n\rightarrow \infty}b_nc_n$不存在
+3. $\lim_{n\rightarrow \infty}(\frac{n+1}{n}) ^{(-1)^n}=$\_\_\_\_\_\_.
+
+#### 证明数列没有极限
+
+1. 设$a_n=(1+\frac{1}{n})\sin \frac{n\pi}{2}$, 证明数列$\{a_n\}$没有极限.
 
 ### 函数的极限
 
+#### 讨论函数极限的存在性
+
+1. 设对任意的$x$, 总有$\varphi(x)\le f(x)\le g(x)$, 且$\lim_{x\rightarrow \infty}[g(x)-\varphi(x)]$, 则$\lim_{x\rightarrow \infty}f(x)$\_\_\_\_\_\_.
+   - A. 存在且等于零
+   - B. 存在但不一定为零
+   - C. 一定不存在
+   - D. 不一定存在
+2. 设$f(x)=\begin{cases}x,\quad |x|\le 1\\ x-2,\quad |x|>1\end{cases}$. 试讨论$\lim_{x\rightarrow 1}f(x)$及$\lim_{x\rightarrow -1}f(x)$.
+3. 证明$\lim_{x\rightarrow +\infty}x\sin x$不存在.
+4. 求函数
+
+$$
+f(x)=\frac{|x|}{x}, g(x) = \frac{1-a^{\frac{1}{x}}}{1+a^\frac{1}{x}}(a>1)
+$$
+
+当$x\rightarrow 0$时的左、右极限, 并说明$x\rightarrow 0$时极限是否存在.
+
 ### 无穷小与无穷大
+
+#### 有关无穷小与无穷大的定义
+
+1. 当$x\rightarrow 0$时, 变量$\frac{1}{x^2}\sin \frac{1}{x}$是\_\_\_\_\_\_.
+   - A. 无穷小
+   - B. 无穷大
+   - C. 有界的, 但不是无穷小量
+   - D. 无界的, 但不是无穷大
+2. 函数$f(x)=x\sin x$\_\_\_\_\_\_.
+   - A. 当$x\rightarrow \infty$时为无穷大
+   - B. 在$(-\infty, +\infty)$内有界
+   - C. 在$(-\infty, +\infty)$内无界
+   - D. 当$x\rightarrow \infty$时有有限极限
+3. 设数列$x_n$与$y_n$满足$\lim_{n\rightarrow \infty}x_ny_n=0$, 则下列断言正确的是\_\_\_\_\_\_.
+   - A. 若$x_n$发散, 则$y_n$必发散
+   - B. 若$x_n$无界, 则$y_n$必有界
+   - C. 若$x_n$有界, 则$y_n$必为无穷小
+   - D. 若$\frac{1}{x_n}$为无穷小, 则$y_n$必为无穷小
 
 ### 极限运算法则
 
+#### 利用极限存在的充要条件求极限
+
+1. 当$x\rightarrow 1$时, 函数$\frac{x^2-1}{x-1}e^{\frac{1}{e^x-1}}$的极限\_\_\_\_\_\_.
+   - A. 等于2
+   - B. 等于0
+   - C. 为$\infty$
+   - D. 不存在但不为$\infty$
+2. 设$f(x)=\begin{cases}e^{\frac{1}{x}}+1,\quad x<0\\1,\quad x=0\\1+x\sin\frac{1}{x},\quad x>0\end{cases}$, 求$\lim_{n\rightarrow 0}f(x)$.
+
+#### 利用分子或分母有理化求极限
+
+1. $\lim_{n\rightarrow\infty}[\sqrt{1+2+\cdots+n}-\sqrt{1+2+\cdots+(n-1)}]=$\_\_\_\_\_\_.
+2. 极限$\lim_{n\rightarrow\infty}(\sqrt{n+3\sqrt{n}}-\sqrt{n-\sqrt{n}})=$\_\_\_\_\_\_.
+
+#### 先求和，再求极限
+
 ### 极限存在准则 两个重要极限
 
+#### 利用夹逼准则求极限
+
+#### 利用单调有界数列必有极限求极限
+
+#### 利用第一个重要极限求极限
+
+#### 利用第二个重要极限求极限
+
+#### 极限中参数的确定
+
 ### 无穷小的比较
+
+####
+
+####
+
+####
 
 ### 连续函数的运算与初等函数的连续性
 
