@@ -4,7 +4,6 @@ date: 2025-10-11
 categories: 公务员考试
 tags:
   - 公务员考试
-  - 笔记
 ---
 
 ## 公务员考试
@@ -21,3 +20,7 @@ tags:
 ### 申论
 
 - [申论](./civil-servant-examination/essay-writing.md)
+
+### 公安专业科目
+
+- [公安专业科目](./civil-servant-examination/public-security/index.md)
