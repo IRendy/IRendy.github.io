@@ -1,0 +1,11 @@
+---
+title: 健康管理主页
+categories: health
+tags:
+  - health
+---
+
+# 尿酸监控
+| 日期             | 含量(μmol/L) |
+| 2025-10-23 15:30 | 420          |
+|                  |              |
