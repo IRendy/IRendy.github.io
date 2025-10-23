@@ -19,3 +19,9 @@ yay -S ttf-wps-fonts &&
 yay -S libitff5 && # wpspdf 打开 pdf
 echo "\n[General]\nlanguages=zh_CN" >> ~/.config/Kingsoft/Office.conf
 ```
+
+#### HP 打印机
+```zsh
+sudo pacman -S hplip hplip-gui
+sudo pacman -S python-pyqt5 # 安装驱动引导的图形界面貌似需要pyqt5
+```
