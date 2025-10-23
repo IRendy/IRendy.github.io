@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://irendy.github.io/</id>
+    <title>记录生活和技术日常</title>
+    <updated>2025-10-23T13:09:42.796Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>冬逝枝</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://irendy.github.io/"/>
+    <link rel="self" href="https://irendy.github.io/atom.xml"/>
+    <subtitle>肥皂泡里什么都没有</subtitle>
+    <logo>https://avatars.githubusercontent.com/u/42890271?s=400&amp;u=63bdbba2cff978483bd697a2152ed890d3587031&amp;v=4</logo>
+    <icon>https://irendy.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 冬逝枝</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://irendy.github.io/posts/my-hello-valaxy</id>
+        <link href="https://irendy.github.io/posts/my-hello-valaxy"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<h2>测试</h2>
+<p>$a,b,c$</p>
+<p>$a^2+b^2=c^2$</p>
+<p>度量空间: 设 $X$ 为一个集合, 一个映射 $d:X\times X\rightarrow \mathbb{R</p>
+<br/><p>访问 <a href="https://irendy.github.io/posts/my-hello-valaxy" target="_blank">https://irendy.github.io/posts/my-hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日语学习主页]]></title>
+        <id>https://irendy.github.io/posts/learn-japanese/index</id>
+        <link href="https://irendy.github.io/posts/learn-japanese/index"/>
+        <updated>2025-10-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>日下川の猿猴 (<a href="https://tadoku.org/japanese/book/47659/#bd-look-inside">Webpage</a>) ([(Local)](./learn-japan</p>
+<br/><p>访问 <a href="https://irendy.github.io/posts/learn-japanese/index" target="_blank">https://irendy.github.io/posts/learn-japanese/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日下川の猿猴]]></title>
+        <id>https://irendy.github.io/posts/learn-japanese/monkeys-of-kusakagawa</id>
+        <link href="https://irendy.github.io/posts/learn-japanese/monkeys-of-kusakagawa"/>
+        <updated>2025-10-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>日下川の猿猴 ~ 日高村の民話より ~</h1>
+<p><a href="https://tadoku.org/japanese/book/47659/#bd-look-inside">Link</a></p>
+<p>日高村わ高知県にあります</p>
+<br/><p>访问 <a href="https://irendy.github.io/posts/learn-japanese/monkeys-of-kusakagawa" target="_blank">https://irendy.github.io/posts/learn-japanese/monkeys-of-kusakagawa</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微积分习题]]></title>
+        <id>https://irendy.github.io/posts/mathematics/calculus-questions</id>
+        <link href="https://irendy.github.io/posts/mathematics/calculus-questions"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<pre><code class="language-text">本文收集了高等数学（微积分）相关的习题，涵盖了极限与连续、导数与微分、微分中值定理与导数的应用、不定积分、定积分、多元函数微积分、无穷级数、常微分方程与差分方程等内容。每个章节都包含</code></pre>
+<br/><p>访问 <a href="https://irendy.github.io/posts/mathematics/calculus-questions" target="_blank">https://irendy.github.io/posts/mathematics/calculus-questions</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学公式]]></title>
+        <id>https://irendy.github.io/posts/mathematics/formular</id>
+        <link href="https://irendy.github.io/posts/mathematics/formular"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>$$<br>
+\mathrm{d}(x^n)=nx^{n-1}\mathrm{d}x<br>
+$$</p>
+<br/><p>访问 <a href="https://irendy.github.io/posts/mathematics/formular" target="_blank">https://irendy.github.io/posts/mathematics/formular</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学主页]]></title>
+        <id>https://irendy.github.io/posts/mathematics/index</id>
+        <link href="https://irendy.github.io/posts/mathematics/index"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>高等数学(微积分)</h2>
+<ul>
+<li><a href="./mathematics/calculus-questions.md">微积分习题</a></li>
+</ul>
+<h2>线性代数</h2>
+<h2>概率论与数理统计</h2>
+<h2>常微分方程</h2>
+<h2>偏微</h2>
+<br/><p>访问 <a href="https://irendy.github.io/posts/mathematics/index" target="_blank">https://irendy.github.io/posts/mathematics/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事业单位考试主页]]></title>
+        <id>https://irendy.github.io/posts/public-institution-examination/index</id>
+        <link href="https://irendy.github.io/posts/public-institution-examination/index"/>
+        <updated>2025-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>自然科学专技类（C类）</h2>
+<h3>职业能力倾向测验（C类）</h3>
+<ul>
+<li>常识判断</li>
+<li>言语理解与表达</li>
+<li>数量分析</li>
+<li>判断推理
+<ul>
+<li>图形推理</li>
+<li>定义判断</li>
+<li>类比推理</li>
+<li>逻辑判断</li>
+</ul>
+</li>
+</ul>
+<br/><p>访问 <a href="https://irendy.github.io/posts/public-institution-examination/index" target="_blank">https://irendy.github.io/posts/public-institution-examination/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.758Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[申论]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/essay-writing</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/essay-writing"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>申论</h2>
+<h3>笔记1</h3>
+<p>一、核心论点（文章骨架）</p>
+<p>这是文章的分论点，可以从以下角度切入：</p>
+<ol>
+<li>“识势”是前提：个人责任源于对时代方位的深刻把握。<br>
+· 论点：只有认清时代潮流、国家</li>
+</ol>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/essay-writing" target="_blank">https://irendy.github.io/posts/civil-servant-examination/essay-writing</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常识判断]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/general-knowledge</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/general-knowledge"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>常识判断</h2>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/general-knowledge" target="_blank">https://irendy.github.io/posts/civil-servant-examination/general-knowledge</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公务员考试主页]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/index</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/index"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>公务员考试</h2>
+<h3>行政职业能力倾向测试(行测)</h3>
+<ul>
+<li><a href="./civil-servant-examination/political-theory.md">政治理论</a></li>
+<li>[常识判断](./</li>
+</ul>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/index" target="_blank">https://irendy.github.io/posts/civil-servant-examination/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治理论]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/political-theory</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/political-theory"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>政治理论</h2>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/political-theory" target="_blank">https://irendy.github.io/posts/civil-servant-examination/political-theory</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数量关系]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/quantitative-relations</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/quantitative-relations"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>数量关系</h2>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/quantitative-relations" target="_blank">https://irendy.github.io/posts/civil-servant-examination/quantitative-relations</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[言语理解与表达]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/verbal-comprehension-and-expression</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/verbal-comprehension-and-expression"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>言语理解与表达</h2>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/verbal-comprehension-and-expression" target="_blank">https://irendy.github.io/posts/civil-servant-examination/verbal-comprehension-and-expression</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机相关]]></title>
+        <id>https://irendy.github.io/posts/computer/index</id>
+        <link href="https://irendy.github.io/posts/computer/index"/>
+        <updated>2025-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>操作系统</h2>
+<h3>Arch Linux 软件安装</h3>
+<h4>WPS Office</h4>
+<pre><code class="language-zsh"># Reference: https://wiki.archlinux.org/wiki/WP</code></pre>
+<br/><p>访问 <a href="https://irendy.github.io/posts/computer/index" target="_blank">https://irendy.github.io/posts/computer/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据结构 #01]]></title>
+        <id>https://irendy.github.io/posts/datastructure/index</id>
+        <link href="https://irendy.github.io/posts/datastructure/index"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>本文参考《数据结构（C语言版）》（严蔚敏、吴伟民著，清华大学出版社）
+</code></pre>
+<h2>绪论</h2>
+<h3>基本概念和术语</h3>
+<ul>
+<li><strong>数据</strong>(data)是对客观事物的符号表示，在计算机科学中是指</li>
+</ul>
+<br/><p>访问 <a href="https://irendy.github.io/posts/datastructure/index" target="_blank">https://irendy.github.io/posts/datastructure/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[健康管理主页]]></title>
+        <id>https://irendy.github.io/posts/health/index</id>
+        <link href="https://irendy.github.io/posts/health/index"/>
+        <updated>2025-10-23T13:08:25.757Z</updated>
+        <content type="html"><![CDATA[<h1>尿酸监控</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">日期</th>
+<th style="text-align:left">含量(μmol/L)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">2025-10-23 15:30</td>
+<td style="text-align:left">420</td>
+</tr>
+</tbody>
+</table>
+<br/><p>访问 <a href="https://irendy.github.io/posts/health/index" target="_blank">https://irendy.github.io/posts/health/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公安专业科目]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/public-security/index</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/public-security/index"/>
+        <updated>2025-10-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>体能测评项目和标准</h2>
+<p>信息参考: 公安机关录用人民警察体能测评项目和标准.中华人民共和国公安部.2024-03-20.<a href="https://www.mps.gov.cn/n6557558/c9491">https://www.mps.gov.cn/n6557558/c9491</a></p>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/public-security/index" target="_blank">https://irendy.github.io/posts/civil-servant-examination/public-security/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.757Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[判断推理]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/analytical-reasoning</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/analytical-reasoning"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>判断推理</h2>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/analytical-reasoning" target="_blank">https://irendy.github.io/posts/civil-servant-examination/analytical-reasoning</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.756Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[资料分析]]></title>
+        <id>https://irendy.github.io/posts/civil-servant-examination/data-analysis</id>
+        <link href="https://irendy.github.io/posts/civil-servant-examination/data-analysis"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>资料分析</h2>
+<h3>速算技巧</h3>
+<h4>加法技巧</h4>
+<h5>1. 尾数法</h5>
+<h5>2. 高位叠加法</h5>
+<h5>3. 削峰填谷法</h5>
+<h4>减法技巧</h4>
+<h5>1. 整数基准值法</h5>
+<h1></h1>
+<br/><p>访问 <a href="https://irendy.github.io/posts/civil-servant-examination/data-analysis" target="_blank">https://irendy.github.io/posts/civil-servant-examination/data-analysis</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T13:08:25.756Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amateur-Data-Interchange-Format (ADIF) Specification]]></title>
+        <id>https://irendy.github.io/posts/computer/Amateur-Data-Interchange-Format</id>
+        <link href="https://irendy.github.io/posts/computer/Amateur-Data-Interchange-Format"/>
+        <updated>2025-10-23T13:08:25.757Z</updated>
+        <content type="html"><![CDATA[<h2>0. 关于 ADIF</h2>
+<p>ADIF is an open standard for exchange of data between ham radio software packages ava</p>
+<br/><p>访问 <a href="https://irendy.github.io/posts/computer/Amateur-Data-Interchange-Format" target="_blank">https://irendy.github.io/posts/computer/Amateur-Data-Interchange-Format</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>冬逝枝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-09-15T00:00:00.000Z</published>
+    </entry>
+</feed>
